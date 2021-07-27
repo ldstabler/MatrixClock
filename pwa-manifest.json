@@ -1,0 +1,37 @@
+{
+    "name": "Screensaver.Best",
+    "short_name": "Screensaver",
+    "description": "The Best Screensaver in the Internet",
+    "icons": [
+        {
+            "src": "icon.1.2.b.png",
+            "sizes": "192x192",
+            "type": "image\/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon.1.2.b.png",
+            "sizes": "192x192",
+            "type": "image\/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icon.1.2.b.png",
+            "sizes": "512x512",
+            "type": "image\/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon.1.2.b.png",
+            "sizes": "512x512",
+            "type": "image\/png",
+            "purpose": "maskable"
+        }
+    ],
+    "background_color": "#0c0448",
+    "theme_color": "#0c0448",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "start_url": "https:\/\/screensaver.best\/app\/",
+    "scope": "https:\/\/screensaver.best\/"
+}
